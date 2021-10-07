@@ -7,6 +7,7 @@
 **Product Owners:** 
 - Name
 - Name
+
 **Developers:**
 - Name
 - Name
@@ -22,22 +23,22 @@
 - Update 2 to devs and product owners
 
 
-**Developer Name:** Name
-**Jira board ticket:** 123 
+**Developer Name:** Name  
+**Jira board ticket:** 123   
 **Status:** Completed!
 1. Yesterday, I worked on ...
 2. Today, I will work on ...
 3. I have no blockers
 
-**Developer Name:** Name
-**Jira board ticket:** 234
+**Developer Name:** Name  
+**Jira board ticket:** 234  
 **Status:** Currently blocked
 1. Yesterday, I woked on ...
 2. Today, I will work on ...
-3. I have some blockers. For these
+3. I have some blockers. For these ...
 
-**Developer Name:** Name
-**Jira board ticket:** 234
+**Developer Name:** Name  
+**Jira board ticket:** 234  
 **Status:** In progress
 1. Yesterday, I woked on ...
 2. Today, I will work on ...
