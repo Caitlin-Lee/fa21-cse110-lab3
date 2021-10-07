@@ -3,7 +3,7 @@
 ## Time: 10:00 AM PST - 10:15 AM PST 
 ## Sprint: 
 
-**Scrum Master:** Name
+**Scrum Master:** Name  
 **Product Owners:** 
 - Name
 - Name
