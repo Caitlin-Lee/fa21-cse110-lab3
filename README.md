@@ -1,4 +1,4 @@
 Link to website:  
-https://caitlin-lee.github.io/Lab2/
+https://caitlin-lee.github.io/fa21-cse110-lab3/
 
-check if lab3 works
+Branches have been left in to show pull requests.
